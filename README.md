@@ -1,5 +1,5 @@
 # An (Unofficial) Adaptive ML Support Agent
-RAG-enabled ReAct Agent designed to help answer questions related to [Adaptive ML](https://docs.adaptive-ml.com/v0.10/introduction/introduction)
+RAG-enabled ReAct Agent designed to help answer questions related to [Adaptive ML](https://docs.adaptive-ml.com/v0.10/introduction/introduction). Can expose the agent via a socket.io server for web-based communication or run as a CLI agent.
 
 ## Prerequisites
 
